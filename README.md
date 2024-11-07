@@ -2,4 +2,5 @@
 docker swarm
 creating ec2 three instaces one is manager and another two is worker server
 
-(https://github.com/user-attachments/assets/b9aba4fe-43b2-42d4-9862-5a8f279f08e2)
+![image alt](https://github.com/srinubora/docker1/blob/7e1296e57c5ff74e151453b386c7d79584753a8b/Screenshot%202024-11-06%20212505.png)
+
